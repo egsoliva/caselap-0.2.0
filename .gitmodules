@@ -1,0 +1,3 @@
+[submodule "libraries/esp-now"]
+	path = libraries/esp-now
+	url = https://github.com/espressif/esp-now.git
