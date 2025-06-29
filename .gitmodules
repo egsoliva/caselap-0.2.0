@@ -1,6 +1,0 @@
-[submodule "libraries/esp-now"]
-	path = libraries/esp-now
-	url = https://github.com/espressif/esp-now.git
-[submodule "libraries/TinyGPSPlus"]
-	path = libraries/TinyGPSPlus
-	url = https://github.com/mikalhart/TinyGPSPlus.git
